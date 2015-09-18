@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  GeneTabBarViewController.h
 //  weibo
 //
 //  Created by tarena1 on 15/9/18.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface GeneTabBarViewController : UITabBarController
 
 @end
-
